@@ -1,0 +1,13 @@
+Bash style Emacs key bindings (rev 2)
+Change fn + I/J/K/L to Arrow Keys
+Change fn + grave_accent_and_tilde to esc
+Change right_command+i/j/k/l to Arrows
+Emacs key bindings [control+keys] (rev 10)
+Emacs key bindings [option+keys] (rev 5)
+Map ctrl + [ to escape
+Option+L to Lock Screen (macOS 10.13+)
+Page down (right_shift+; to page_down)
+Page up (right_shift+p to page_up)
+Post Escape if Command_R is pressed alone.
+Use Backspace as Go to Previous Folder
+Use Return as Open and Use Fn+Return as Rename

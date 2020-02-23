@@ -1,0 +1,2 @@
+Unpin window: shift-space
+Git changes: alt-g

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotationsAreShown</key>
+	<true/>
+	<key>isPinned</key>
+	<false/>
+	<key>menuIconBehavior</key>
+	<integer>1</integer>
+	<key>placeholderDelimiter</key>
+	<string>__</string>
+	<key>searchKey</key>
+	<dict>
+		<key>keyCode</key>
+		<integer>-1</integer>
+		<key>modifiers</key>
+		<integer>0</integer>
+	</dict>
+	<key>shouldRestoreTabs</key>
+	<true/>
+	<key>shouldShowStatusIcon</key>
+	<true/>
+	<key>shouldStartAtLogin</key>
+	<true/>
+	<key>shouldSyncGeneral</key>
+	<true/>
+	<key>shouldSyncView</key>
+	<true/>
+	<key>showInDock</key>
+	<false/>
+	<key>showSearchFallbacks</key>
+	<true/>
+	<key>windowStyle</key>
+	<string>Standard</string>
+</dict>
+</plist>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>18 Jan 2019 9:16:35 am</dateCreated>
+    <dateModified>18 Jan 2019 9:16:35 am</dateModified>
+  </head>
+  <body>
+    <outline text="Beyond Reasonable Doubt?" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p054dybk.rss" htmlUrl="http://www.bbc.co.uk/programmes/p054dybk" />
+    <outline text="Coding Blocks" type="rss" xmlUrl="http://feeds.podtrac.com/tBPkjrcL0_m0" htmlUrl="https://www.codingblocks.net" />
+    <outline text="Common Sense with Dan Carlin" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense" htmlUrl="http://www.dancarlin.com" />
+    <outline text="Criminal" type="rss" xmlUrl="http://feeds.thisiscriminal.com/CriminalShow" htmlUrl="http://thisiscriminal.com/" />
+    <outline text="Dan Carlin's Hardcore History" type="rss" xmlUrl="http://feeds.feedburner.com/dancarlin/history" htmlUrl="http://www.dancarlin.com" />
+    <outline text="Global News Podcast" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0gn.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nq0gn" />
+    <outline text="Heavyweight" type="rss" xmlUrl="http://feeds.gimletmedia.com/heavyweightpodcast" htmlUrl="https://gimletmedia.com/show/heavyweight/" />
+    <outline text="Icy Veins Podcast" type="rss" xmlUrl="https://www.icy-veins.com/podcast.rss" htmlUrl="https://www.icy-veins.com/podcast" />
+    <outline text="LIGHTSPEED MAGAZINE - Science Fiction and Fantasy Story Podcast (Sci-Fi | Audiobook | Short Stories)" type="rss" xmlUrl="http://www.lightspeedmagazine.com/itunes-rss/" htmlUrl="http://lightspeedmagazine.com" />
+    <outline text="More or Less: Behind the Stats" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrss1" />
+    <outline text="Myths and Legends" type="rss" xmlUrl="http://mythpodcast.libsyn.com/rss" htmlUrl="http://www.mythpodcast.com" />
+    <outline text="No Such Thing As A Fish" type="rss" xmlUrl="https://audioboom.com/channels/2399216.rss" htmlUrl="https://audioboom.com/channel/nosuchthingasafish" />
+    <outline text="Our Fake History" type="rss" xmlUrl="http://ourfakehistory.libsyn.com/rss" htmlUrl="http://ourfakehistory.podbean.com" />
+    <outline text="PBS NewsHour - Full Show" type="rss" xmlUrl="http://feeds.feedburner.com/newshourfullprogrampodcast" htmlUrl="https://www.pbs.org/newshour/video" />
+    <outline text="Reveal" type="rss" xmlUrl="http://feeds.revealradio.org/revealpodcast" htmlUrl="http://www.revealnews.org/" />
+    <outline text="Revisionist History" type="rss" xmlUrl="https://feeds.megaphone.fm/revisionisthistory" htmlUrl="http://revisionisthistory.com/" />
+    <outline text="Science Friday" type="rss" xmlUrl="http://feeds.wnyc.org/science-friday/" htmlUrl="http://www.wnycstudios.org/shows/science-friday" />
+    <outline text="Talking Machines" type="rss" xmlUrl="https://rss.art19.com/talking-machines" htmlUrl="https://art19.com/shows/talking-machines" />
+    <outline text="TED Radio Hour" type="rss" xmlUrl="https://www.npr.org/rss/podcast.php?id=510298" htmlUrl="https://www.npr.org/programs/ted-radio-hour/" />
+    <outline text="Terrible, Thanks For Asking" type="rss" xmlUrl="https://feeds.publicradio.org/public_feeds/terrible-thanks-for-asking/itunes/rss" htmlUrl="https://www.apmpodcasts.org/ttfa/" />
+    <outline text="That Peter Crouch Podcast" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p06kyljg.rss" htmlUrl="http://www.bbc.co.uk/programmes/p06kyljg" />
+    <outline text="The Economist: Babbage" type="rss" xmlUrl="https://rss.acast.com/theeconomistbabbage" htmlUrl="http://www.economist.com/" />
+    <outline text="The Infinite Monkey Cage" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" htmlUrl="http://www.bbc.co.uk/programmes/b00snr0w" />
+    <outline text="The InfoQ Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:215740450/sounds.rss" htmlUrl="http://bit.ly/1Xc6w4R" />
+    <outline text="The Science Hour" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p016tmt2.rss" htmlUrl="http://www.bbc.co.uk/programmes/p016tmt2" />
+    <outline text="The Young Turks" type="rss" xmlUrl="https://feeds.megaphone.fm/PPY5292521648" htmlUrl="http://www.tytnetwork.com" />
+    <outline text="This American Life" type="rss" xmlUrl="http://feed.thisamericanlife.org/talpodcast" htmlUrl="https://www.thisamericanlife.org" />
+  </body>
+</opml>

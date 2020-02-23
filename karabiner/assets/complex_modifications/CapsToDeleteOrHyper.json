@@ -1,0 +1,36 @@
+{
+    "title": "Single Press Caps Lock Alone to delete, press and hold to Hyper",
+    "rules": [
+        {
+            "description": "Single Press Caps Lock Alone to delete, press and hold to Hyper",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "caps_lock",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to": [
+                        {
+                            "key_code": "right_shift",
+                            "modifiers": [
+                                "right_command",
+                                "right_control",
+                                "right_option"
+                            ]
+                        }
+                    ],
+                    "to_if_alone": [
+                        {
+                            "key_code": "delete_or_backspace"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

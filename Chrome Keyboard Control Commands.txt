@@ -1,0 +1,53 @@
+Default Keymap
+Shift+Esc	:	disable/enable extension
+Space	:	hit a hint on/off
+Shift-Space	:	hit a hint -newtab on/off
+C-Space	:	hit a hint -continuous on/off
+j	:	scroll down
+k	:	scroll up
+l	:	scroll right
+h	:	scroll left
+gg	:	scroll to top
+G	:	scroll to bottom
+d	:	scroll down full page
+u	:	scroll up full page
+H	:	back in history
+L	:	forward in history
+J, gT	:	select left tab
+K, gt	:	select right tab
+g0	:	select first tab
+g$	:	select last tab
+W	:	select next window
+t	:	create new tab
+x	:	close current tab
+X	:	restore closed tab
+r	:	reload
+p	:	pin/unpin tab
+qa	:	close current window
+og	:	open URL (Google)
+oj	:	open URL (bookmarklet)
+O	:	open URL in new tab (Google)
+s	:	search web
+S	:	search web in new tab
+b	:	open bookmark
+B	:	open bookmark in new tab
+v	:	open history entry
+V	:	open history entry in new tab
+T	:	show tabList
+gp	:	go to parent dir
+gr	:	go to root
+]]	:	follow link labeled next
+[[	:	follow link labeled previous
+i	:	focus first text input
+M-i	:	blur focus
+/	:	search mode backward
+?	:	search mode forward
+yy	:	copy current URL
+mh	:	save as MHTML
+ms	:	store/load tabs
+mm	:	set mark
+mj	:	jump to mark
+wv	:	split window vertically
+wh	:	split window horizontally
+a	:	URL alias mode
+op	:	options page
