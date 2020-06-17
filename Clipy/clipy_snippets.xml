@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<folders>
+	<folder>
+		<title>PR</title>
+		<snippets>
+			<snippet>
+				<title>Checklist</title>
+				<content>* [X] I have followed the [OR PR Guidelines](https://github.com/occamzrazor/engineering-resources/blob/master/pull_request_guidelines.md)
+* [X] I have checked that `README.md`&apos;s instructions can be followed without error
+* [X] My code follows the style guidelines of this project
+* [X] I have performed a self-review of my own code with engineering concepts in mind
+* [X] My code, where possible, is as understandable as possible without comments
+* [X] I have commented my code, in hard-to-understand areas
+* [X] I have made corresponding changes to the documentation
+* [X] My changes generate no new warnings
+* [X] I have added tests if applicable that prove my fix is effective or that my feature works
+* [X] New and existing unit tests pass locally with my changes
+* [X] Any dependent changes have been merged and published in downstream modules</content>
+			</snippet>
+			<snippet>
+				<title>GitHub</title>
+				<content>11anfairghpw11</content>
+			</snippet>
+		</snippets>
+	</folder>
+	<folder>
+		<title>Sites</title>
+		<snippets>
+			<snippet>
+				<title>APPL</title>
+				<content>11@nfaiRapplepw11</content>
+			</snippet>
+			<snippet>
+				<title>Duo</title>
+				<content> gWNM2g5CkGDm$N!F</content>
+			</snippet>
+			<snippet>
+				<title>DS718</title>
+				<content>11@nfaiRsynpw11</content>
+			</snippet>
+			<snippet>
+				<title>GOOG</title>
+				<content>11@nfaiRg00gpw11</content>
+			</snippet>
+			<snippet>
+				<title>LI</title>
+				<content>https://www.linkedin.com/in/peterkingswell/</content>
+			</snippet>
+			<snippet>
+				<title>LP</title>
+				<content>P3t3KateVaughnSadie</content>
+			</snippet>
+			<snippet>
+				<title>Router</title>
+				<content>11@nfairpw11</content>
+			</snippet>
+			<snippet>
+				<title>spotify.net</title>
+				<content>L6AtbXkeWYB$8G</content>
+			</snippet>
+		</snippets>
+	</folder>
+	<folder>
+		<title>AAPL Fam</title>
+		<snippets>
+			<snippet>
+				<title>S</title>
+				<content>658SadieBergen</content>
+			</snippet>
+			<snippet>
+				<title>V</title>
+				<content> 658AppleBergen</content>
+			</snippet>
+		</snippets>
+	</folder>
+	<folder>
+		<title>GOOG Fam</title>
+		<snippets>
+			<snippet>
+				<title>V</title>
+				<content>BergenStreet658</content>
+			</snippet>
+			<snippet>
+				<title>S</title>
+				<content>fL5hQ^Bo5jRC</content>
+			</snippet>
+			<snippet>
+				<title>K</title>
+				<content>Rt3Box86E</content>
+			</snippet>
+			<snippet>
+				<title>S PS9</title>
+				<content>SADIEK8362@ps9brooklyn.org / yellowduck</content>
+			</snippet>
+		</snippets>
+	</folder>
+</folders>

@@ -1,0 +1,205 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "context-test-runner.testAllCommand": "pytest",
+    "context-test-runner.testCurrentCommand": "pytest {filename.relative}::{testname}",
+    "context-test-runner.testFromFileCommand": "pytest {filename.relative}",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "88"
+    ],
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#5c5c5c85",
+        "editor.wordHighlightBackground": "#08850449",
+        "editor.selectionHighlightBorder": "#ffffff50",
+        "editor.selectionHighlightBackground": "#303030", // white hex code
+        "editor.findMatchBackground": "#8a888a4d", //Current SEARCH MATCH
+        "editor.findMatchHighlightBackground": "#75390067", //Other SEARCH MATCHES
+        "editor.findMatchBorder": "#00ff1533",
+        // "editor.findMatchHighlightBorder": "#eeff009c",
+        // "editorOverviewRuler.selectionHighlightForeground": "#ff0000",
+        // "editor.wordHighlightBorder": "#ff0000",
+        // "editor.wordHighlightStrongBackground": "#ff0000",
+        // "editorOverviewRuler.findMatchForeground": "#ff0000"
+    },
+    "python.sortImports.args": [
+        "--settings-path=${workspaceFolder}/.isort.cfg"
+    ],
+    "python.envFile": "",
+    "tabnine.disable_line_regex": [
+        "# "
+    ],
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/lib",
+        "${workspaceFolder}/src/venv/lib/python3.7"
+    ],
+    "python.analysis.disabled": [
+        "false"
+    ],
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/*.pyc": true,
+        "**/node_modules": true,
+        "node_modules": true
+    },
+    "search.exclude": {
+        "**/.git": true, // this is a default value
+        "**/.DS_Store": true, // this is a default value
+        "**/node_modules": true, // this excludes all folders
+        // named "node_modules" from
+        // the explore tree
+        // alternative version
+        "node_modules": true // this excludes the folder
+        // only from the root of
+        // your workspace
+    },
+    "window.zoomLevel": 0,
+    "jshint.packageManager": "yarn",
+    "jshint.options": {
+        "esversion": 6
+    },
+    "eslint.alwaysShowStatus": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "flow",
+            "autoFix": true
+        }
+    ],
+    "files.autoSave": "onFocusChange",
+    "flow.pathToFlow": "${workspaceFolder}/node_modules/flow-bin/vendor/flow",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "gitlens.views.repositories.location": "scm",
+    "gitlens.views.fileHistory.location": "explorer",
+    "gitlens.views.lineHistory.location": "explorer",
+    "gitlens.views.compare.location": "gitlens",
+    "gitlens.views.search.location": "gitlens",
+    "gitlens.hovers.annotations.changes": false,
+    "gitlens.hovers.annotations.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "python.autoComplete.addBrackets": true,
+    "python.condaPath": "/usr/local/anaconda3/bin/conda",
+    "window.title": "${activeEditorMedium}${separator}${rootName}${dirty}",
+    "breadcrumbs.enabled": true,
+    "workbench.settings.openDefaultKeybindings": true,
+    "files.trimFinalNewlines": true,
+    "[yaml]": {},
+    "files.associations": {
+        "*.yaml": "yaml"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": true
+    },
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.testing.unittestEnabled": true,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-p",
+        "*test*.py",
+        "-s",
+        "./tests"
+    ],
+    "python.testing.cwd": "${workspaceFolder}",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestPath": "pytest",
+    // "python.testing.pytestArgs": true,
+    "search.location": "sidebar",
+    "explorer.confirmDelete": false,
+    "editor.renderWhitespace": "selection",
+    "gitlens.keymap": "alternate",
+    "workbench.colorTheme": "Pitch Black",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "explorer.confirmDragAndDrop": false,
+    "editor.lineNumbers": "off",
+    "git.confirmSync": false,
+    "python.sortImports.path": "/usr/local/anaconda3/envs/razor-nlp/bin/isort",
+    "python.dataScience.askForKernelRestart": false,
+    "editor.cursorSurroundingLines": 3,
+    "python.analysis.diagnosticPublishDelay": 400,
+    "python.analysis.logLevel": "Warning",
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.analysis.memory.keepLibraryLocalVariables": true,
+    "python.analysis.openFilesOnly": false,
+    "terminal.explorerKind": "external",
+    "workbench.editor.highlightModifiedTabs": true,
+    "prettier.useTabs": true,
+    "editor.tabCompletion": "on",
+    "emmet.triggerExpansionOnTab": true,
+    "editor.cursorStyle": "block",
+    "editor.wordWrapColumn": 88,
+    "editor.accessibilitySupport": "off",
+    "editor.folding": false,
+    "editor.gotoLocation.multiple": "gotoAndPeek",
+    "editor.parameterHints.cycle": true,
+    "editor.renderControlCharacters": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestionsDelay": 100,
+    "editor.suggest.localityBonus": true,
+    "editor.suggest.maxVisibleSuggestions": 8,
+    "editor.suggest.shareSuggestSelections": true,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": true,
+    "gitlens.codeLens.includeSingleLineSymbols": true,
+    "gitlens.blame.ignoreWhitespace": true,
+    "csharp.testsCodeLens.enabled": false,
+    "search.quickOpen.includeSymbols": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "csv-preview.capitalizeHeaders": false,
+    "csv-preview.formatValues": "never",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "trailing-spaces.highlightCurrentLine": false,
+    "trailing-spaces.trimOnSave": true,
+    "trailing-spaces.liveMatching": false,
+    "markdownlint.customRulesAlwaysAllow": [
+        "/Users/peter/src/razor/graph-helper"
+    ],
+    "workbench.editor.showTabs": true,
+    "terminal.integrated.inheritEnv": false,
+    "python.diagnostics.sourceMapsEnabled": false,
+    "python.testing.pytestArgs": [
+        "-s",
+        "-v",
+        "-A",
+        "-r"
+    ],
+    "python.jediEnabled": false,
+    "sync.gist": "b97a2658add4776e7c39d3acfdafb12f",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceUpload": true,
+    "debug.enableAllHovers": true,
+    "debug.inlineValues": true,
+    "debug.showSubSessionsInToolBar": true,
+    "editor.renderIndentGuides": false,
+    "python.linting.mypyEnabled": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnType": true,
+    "workbench.activityBar.visible": true,
+    "mypy.executable": "/usr/local/anaconda3/envs/razor-graph-analysis/bin/mypyls",
+    "mypy.targets": [],
+    "python.linting.mypyCategorySeverity.error": "Warning",
+    "sync.quietSync": true,
+    "python.linting.mypyPath": "/usr/local/anaconda3/envs/razor-graph-analysis/bin/mypy",
+    "sortLines.filterBlankLines": true,
+    "sortLines.sortEntireFile": true,
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+    }
+}

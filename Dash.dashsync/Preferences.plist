@@ -5,7 +5,7 @@
 	<key>annotationsAreShown</key>
 	<true/>
 	<key>isPinned</key>
-	<false/>
+	<true/>
 	<key>menuIconBehavior</key>
 	<integer>1</integer>
 	<key>placeholderDelimiter</key>
@@ -13,22 +13,22 @@
 	<key>searchKey</key>
 	<dict>
 		<key>keyCode</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>modifiers</key>
-		<integer>0</integer>
+		<integer>6400</integer>
 	</dict>
 	<key>shouldRestoreTabs</key>
 	<true/>
 	<key>shouldShowStatusIcon</key>
 	<true/>
 	<key>shouldStartAtLogin</key>
-	<true/>
+	<false/>
 	<key>shouldSyncGeneral</key>
 	<true/>
 	<key>shouldSyncView</key>
 	<true/>
 	<key>showInDock</key>
-	<false/>
+	<true/>
 	<key>showSearchFallbacks</key>
 	<true/>
 	<key>windowStyle</key>

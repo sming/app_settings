@@ -1,0 +1,302 @@
+{
+  "settingsVersion": "1.66",
+  "exclusionRules": [
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "t"
+    },
+    {
+      "pattern": "https?://keep.google.com/*",
+      "passKeys": "z"
+    },
+    {
+      "pattern": "https?://keep.google.com/*",
+      "passKeys": "a"
+    },
+    {
+      "pattern": "https?://keep.google.com/*",
+      "passKeys": "l"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "m"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "j"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "k"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "l"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "h"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "s"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "j"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "k"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "m"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "w"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "y"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "p"
+    },
+    {
+      "pattern": "https?://keep.google.com/*",
+      "passKeys": "/"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "u"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "/"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "n"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "p"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "`"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "~"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "0"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "u"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "z"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "i"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "t"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "a"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "c"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "g"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "l"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "*"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "p"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "q"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "x"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "s"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "e"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "m"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "r"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "["
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "]"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "z"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "+"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": ";"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "b"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "h"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "n"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "d"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "w"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "m"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "x"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "a"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "y"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "c"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "ez/"
+    },
+    {
+      "pattern": "https?://www.google.com/*",
+      "passKeys": "/"
+    },
+    {
+      "pattern": "https?://drive.google.com/*",
+      "passKeys": "/"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "j"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "k"
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "1234"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "m"
+    },
+    {
+      "pattern": "https?://mail.google.com/*",
+      "passKeys": "?"
+    },
+    {
+      "pattern": "https?://tasks.google.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://tasks.google.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://contacts.google.com/*",
+      "passKeys": "/"
+    },
+    {
+      "pattern": "https?://contacts.google.com/*",
+      "passKeys": "j"
+    },
+    {
+      "pattern": "https?://contacts.google.com/*",
+      "passKeys": "k"
+    },
+    {
+      "pattern": "https?://contacts.google.com/*",
+      "passKeys": ""
+    },
+    {
+      "pattern": "https?://calendar.google.com/*",
+      "passKeys": "?"
+    }
+  ],
+  "filterLinkHints": false,
+  "waitForEnterForFilteredHints": true,
+  "hideHud": false,
+  "keyMappings": "# SEARCH ENGINE SHORTCUTS #\n\n# CHANGE TAB\nmap <c-t> Vomnibar.activateTabSelection\nmap t Vomnibar.activateTabSelection\n\n# STACK OVERFLOW\nmap <c-o> Vomnibar.activateInNewTab keyword=so\nmap <c-s> Vomnibar.activateInNewTab keyword=so\n# map s Vomnibar.activateInNewTab keyword=so\n\n# GOOGLE\nmap <c-g> Vomnibar.activateInNewTab keyword=g\n# map <c-s> Vomnibar.activateInNewTab keyword=g\n# mapping 'g' would clobber Tab Manipulation keys\n# map g Vomnibar.activateInNewTab keyword=g\n\n# I FEEL LUCKY\nmap <c-l> Vomnibar.activateInNewTab keyword=l\n\n# WIKIPEDIA\nmap <c-k> Vomnibar.activateInNewTab keyword=w\nmap <c-i> Vomnibar.activateInNewTab keyword=w\nmap w Vomnibar.activateInNewTab keyword=w\n\n# GOOGLE MAPS\nmap <c-m> Vomnibar.activateInNewTab keyword=gm\nmap m Vomnibar.activateInNewTab keyword=gm\n\n# SMILE.AMAZON.COM\nmap <c-a> Vomnibar.activateInNewTab keyword=az\nmap <c-z> Vomnibar.activateInNewTab keyword=az\nmap a Vomnibar.activateInNewTab keyword=az\n\n\n# Emacs\n# map <c-n> scrollDown\n# map <c-p> scrollUp\n# map <c-b> scrollLeft\n# map <c-f> scrollRight\n# map <c-v> scrollFullPageDown\n# map <a-v> scrollFullPageUp\n# map <c-w> copyCurrentUrl\n# map <a-w> copyCurrentUrl\n# map <c-k> copyCurrentUrl\n# map <c-s> enterFindMode\n# map <c-x>o nextTab\n# map <c-x>0 removeTab",
+  "linkHintCharacters": "sadfjklewcmpgh",
+  "linkHintNumbers": "0123456789",
+  "newTabUrl": "about:newtab",
+  "nextPatterns": "next,more,newer,>,›,→,»,≫,>>",
+  "previousPatterns": "prev,previous,back,older,<,‹,←,«,≪,<<",
+  "regexFindMode": false,
+  "ignoreKeyboardLayout": false,
+  "scrollStepSize": 60,
+  "smoothScroll": true,
+  "grabBackFocus": true,
+  "searchEngines": "w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia\nso: https://www.google.com/search?q=site%3Astackoverflow.com+%s StackOverflow\n\n#\n# (Vimium supports search completion Wikipedia, as\n# above, and for these.)\n#\ng: https://www.google.com/search?q=%s Google\nl: https://www.google.com/search?q=%s&btnI IFL\ny: https://www.youtube.com/results?search_query=%s Youtube\ngm: https://www.google.com/maps?q=%s Google maps\n# b: https://www.bing.com/search?q=%s Bing\n# d: https://duckduckgo.com/?q=%s DuckDuckGo\nz: https://smile.amazon.com/s/?field-keywords=%s Amazon\n# qw: https://www.qwant.com/?q=%s Qwant",
+  "searchUrl": "https://www.google.com/search?q=",
+  "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n/* linkhint boxes */\nbackground: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFF785),\n  color-stop(100%,#FFC542));\nborder: 1px solid #E3BE23;\n}\n\ndiv > .vimiumHintMarker span {\n/* linkhint text */\ncolor: black;\nfont-weight: bold;\nfont-size: 12px;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n}"
+}

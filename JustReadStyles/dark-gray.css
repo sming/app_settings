@@ -1,0 +1,109 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.75em;
+    font-size: 18px;
+    background-color: #222;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.simple-container {
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: rgb(90, 90, 92);
+    padding: 30px 40px 10px 40px;
+    box-shadow: rgba(0, 0, 0, 0.239216) 0px 6px 12px 3px;
+}
+
+.simple-print {
+    fill: white;
+    stroke: white;
+}
+
+.simple-print svg {
+    height: 100%;
+}
+
+.simple-close {
+    color: white;
+    border-color: white;
+}
+
+.simple-ext-info {
+    border-top: 1px solid #aaa;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 36px;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 28px;
+}
+
+h3 {
+    font-size: 18px;
+    line-height: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #D8D8D8;
+    border-top: 1px solid #D8D8D8;
+}
+
+hr {
+    height: 1px;
+    background-color: #d8d8d8;
+    border: none;
+    width: 100%;
+    margin: 0px;
+}
+
+a[href] {
+    color: rgba(84, 190, 255, 0.95);
+    text-decoration: none;
+}
+
+a[href]:hover {
+    color: rgba(133, 208, 255, 0.95);
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    line-height: 1.5em;
+}
+
+aside,
+[class *= "sidebar"],
+[id *= "sidebar"] {
+    max-width: 90%;
+    margin: 0 auto;
+    border: 1px solid lightgrey;
+    padding: 5px 15px;
+}
+
+@media (min-width: 1921px) {
+    body {
+        font-size: 22px;
+    }
+}
+
+@media print {
+    .simple-container {
+        box-shadow: none;
+    }
+}

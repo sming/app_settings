@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Times+New+Roman");
+h1 { font-family: "Times New Roman"; font-size: 24pt; line-height: 1.5; top: 0px; width: 100%; }
+h2 { font-family: "Times New Roman"; font-size: 20pt; line-height: 1.5; }
+h3 { font-family: "Times New Roman"; font-size: 16pt; line-height: 1.5; }
+body { font-family: "Times New Roman"; 
+    background-image: url("https://kbdevstorage1.blob.core.windows.net/asset-blobs/19469_en_1"); 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover;
+    line-height: 1.5; 
+    font-size: 14.5pt; 
+    font-weight: 400; color: 
+    rgb(176, 176, 176); 
+    text-rendering: optimizelegibility; }
+a[href] { color: rgb(88, 128, 172); }
+a[href]:hover { color: rgb(88, 128, 172); }
+blockquote { font-family: "Times New Roman"; background-color: rgb(18, 18, 18); line-height: 1.5; font-size: 14.5pt; color: rgb(176, 176, 176); padding-left: 15px; border-left: 3px solid rgb(176, 176, 176); width: auto; margin: 25px auto; font-style: italic; position: relative; }
+.simple-container {
+	margin: 50px auto;
+	background-color: rgb(18, 18, 18); 
+	opacity: 0.95;
+	-webkit-print-color-adjust: exact;
+	max-width: 800px;
+	border: 1px solid rgb(68, 68, 68);
+	border-radius: 20px;
+	padding: 50px;}
+.youtubeContainer { position: relative; width: 100%; padding-bottom: 56.25%; padding-top: 25px; }
+iframe[src*="youtube.com/embed/"] { width: 100%; height: 100%; position: absolute; }
+img { max-width: 100%; }
+li { line-height: 1.5; }
+td { border: 5px rgb(176, 176, 176); padding: 3px 7px; }
+figure { margin: 0px 0px 10px; }
+figcaption { font-size: 1.45pt; font-style: italic; opacity: 0.7; border: 2px solid rgb(176, 176, 176); padding: 12px; }
+.simple-date { display: inline-block; font-family: "Times New Roman"; font-size: 14.5pt; padding-right: 15px; padding-top: 3px; padding-bottom: 3px; border-right: 2px solid rgb(88, 128, 172); }
+.rtl .simple-date { border-left: 2px solid rgb(88, 128, 172); border-right: none; padding-right: 0px; padding-left: 15px; }
+.simple-author { display: inline-block; font-family: "Times New Roman"; font-size: 14.5pt; color: rgb(88, 128, 172); line-height: 22px; padding-left: 10px; padding-top: 3px; padding-bottom: 3px; }
+.rtl .simple-author { padding-left: 0px; padding-right: 10px; }
+img { max-width: 100%; }
+::selection { background: rgb(88, 128, 172); }

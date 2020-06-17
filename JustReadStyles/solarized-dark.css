@@ -1,0 +1,189 @@
+* {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #002b36;
+    line-height: 1.6;
+    font-size: 17px;
+    color: #657b83;
+    text-rendering: optimizeLegibility;
+}
+
+.simple-container {
+	max-width: 675px;
+	margin: 0 auto;
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
+
+.simple-print {
+	fill: white;
+	stroke: white;
+}
+.simple-print svg {
+	height: 100%;
+}
+
+.simple-close {
+	color: white;
+	border-color: white;
+}
+
+.simple-ext-info {
+	border-top: 1px solid #aaa;
+}
+
+p {
+	font-size: 16px;
+}
+
+h1,
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    color: #859900
+}
+
+h1 {
+    font-size: 1.875em;
+    line-height: 1.125;
+}
+
+h2 {
+    font-size: 1.45em;
+    line-height: 1.2625em;
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.25em;
+    line-height: 1.5;
+    color: #b58900
+}
+
+hr {
+    height: 1px;
+    background-color: #586e75;
+    border: none;
+    width: 100%;
+    margin: 0px;
+}
+
+a[href] {
+    color: #268bd2;
+}
+
+a[href]:hover {
+    color: #b58900;
+}
+
+.youtubeContainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+}
+iframe[src *= "youtube.com/embed/"] {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    line-height: 1.5em;
+}
+
+td {
+    border: 1px solid black;
+    padding: 3px 7px;
+}
+
+pre {
+    background-color: #073642;
+    padding: 10px;
+    overflow: auto;
+}
+
+blockquote {
+    border-left: 4px solid;
+    margin-left: 0;
+    padding: 15px 10% 15px 8%;
+    margin: 1em 0;
+    font-size: 1.2em;
+    line-height: 1.4;
+}
+blockquote > *:first-child {
+    margin-top: 0;
+}
+blockquote > *:last-child {
+    margin-bottom: 0;
+}
+
+figure {
+    margin: 0 0 10px;
+}
+ figcaption {
+    font-size: 0.9em;
+    opacity: 0.7;
+    border: 1px solid #eee;
+    padding: 17px 17px 12px;
+}
+
+aside,
+[class *= "sidebar"],
+[id *= "sidebar"] {
+    max-width: 90%;
+    margin: 0 auto;
+    border: 1px solid lightgrey;
+    padding: 5px 15px;
+}
+
+.simple-date {
+    display: inline-block;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-right: 1px solid #d8d8d8;
+}
+.rtl .simple-date {
+    border-left: 1px solid #d8d8d8;
+    border-right: none;
+    padding-right: 0;
+    padding-left: 15px;
+}
+
+.simple-author {
+    display: inline-block;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: #268bd2;
+    line-height: 22px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.rtl .simple-author {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.simple-container {
+    max-width: 600px;
+}
+
+
+/* Make emojis and icons a reasonable size */
+[class *= "emoji"],
+[class *= "icon"] { width: 1em; }

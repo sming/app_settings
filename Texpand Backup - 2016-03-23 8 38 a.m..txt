@@ -1,0 +1,85 @@
+{
+ "phrases": [
+  {
+   "shortcut": "pez",
+   "phrase": "Pricing Engine",
+   "description": "",
+   "usage_count": 3,
+   "timestamp": 1456748336192,
+   "expands_immediately": true,
+   "expands_within_word": false,
+   "disable_smart_case": true
+  },
+  {
+   "shortcut": "wwz",
+   "phrase": "ww.pricingengine.com",
+   "description": "",
+   "usage_count": 0,
+   "timestamp": 0,
+   "expands_immediately": true,
+   "expands_within_word": false,
+   "disable_smart_case": true
+  },
+  {
+   "shortcut": "pkz",
+   "phrase": "peterkingswell@gmail.com",
+   "description": "",
+   "usage_count": 5,
+   "timestamp": 1457704952432,
+   "expands_immediately": true,
+   "expands_within_word": false,
+   "disable_smart_case": true
+  },
+  {
+   "shortcut": "tkz",
+   "phrase": "Thanks, Pete",
+   "description": "",
+   "usage_count": 0,
+   "timestamp": 0,
+   "expands_immediately": true,
+   "expands_within_word": false,
+   "disable_smart_case": true
+  },
+  {
+   "shortcut": "tkrz",
+   "phrase": "Thanks, Peter",
+   "description": "",
+   "usage_count": 0,
+   "timestamp": 0,
+   "expands_immediately": true,
+   "expands_within_word": false,
+   "disable_smart_case": true
+  },
+  {
+   "shortcut": "cz",
+   "phrase": "Cheers, Pete",
+   "description": "",
+   "usage_count": 0,
+   "timestamp": 0,
+   "expands_immediately": false,
+   "expands_within_word": false,
+   "disable_smart_case": false
+  },
+  {
+   "shortcut": "qz",
+   "phrase": ": \"[clipboard]\" ",
+   "description": "",
+   "usage_count": 1,
+   "timestamp": 1458736310056,
+   "expands_immediately": true,
+   "expands_within_word": false,
+   "disable_smart_case": false
+  },
+  {
+   "shortcut": "bz",
+   "phrase": "Best, Peter",
+   "description": "",
+   "usage_count": 0,
+   "timestamp": 0,
+   "expands_immediately": false,
+   "expands_within_word": false,
+   "disable_smart_case": true
+  }
+ ],
+ "app_exclusions": []
+}
